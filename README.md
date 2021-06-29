@@ -1,6 +1,6 @@
 # StudentInfoManagerSystem
-##基于jsp+mysql+jdbc实现学生信息管理系统
-##效果如下图展示
+## 基于jsp+mysql+jdbc实现学生信息管理系统
+## 效果如下图展示
 
 ![fwed](https://user-images.githubusercontent.com/46393813/123765982-d57a8e80-d8f8-11eb-832a-41c236e3638d.jpg)
 ![wqwqe](https://user-images.githubusercontent.com/46393813/123765989-d6132500-d8f8-11eb-86fd-66ed50168458.jpg)
